@@ -1,8 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
-## Register no: 212223230031
 ## Name : P.Bharathraj
-
+## Register no: 212223230031
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
@@ -139,10 +137,12 @@ if __name__ == '__main__':
 ```
 ## Output :
 ### Client:
-![image](https://github.com/Bharathraj2006/ChatStudy/assets/152376845/80cfcac5-22e1-4438-99eb-c229dc322b7d)
+![image](https://github.com/Bharathraj2006/ChatStudy/assets/152376845/253a89f6-4ade-47e2-9caa-e1d72446aebb)
+
 
 ### Server :
-![image](https://github.com/Bharathraj2006/ChatStudy/assets/152376845/433aa8f1-d8ed-4adf-8f79-91fbaaee10ed)
+![image](https://github.com/Bharathraj2006/ChatStudy/assets/152376845/c660fdf5-1f2d-4f04-9a9f-24fb0a0cc27d)
+
 
 ## Result:
 
